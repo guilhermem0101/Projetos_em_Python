@@ -5,7 +5,7 @@ r = 0.1 # taxa de crescimento
 K = 1000 # capacidade de suporte
 t0 = 0 # tempo inicial
 tf = 50 # tempo final
-dt = 0.1 # tamanho do passo
+dt = 0.01 # tamanho do passo
 
 # Definir as condições iniciais
 P0 = 100 # população inicial
